@@ -1,0 +1,13 @@
+{
+  "name": "qa-top-grading",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QA Top Grading Test - Invoice Management Application",
+  "scripts": {
+    "hello": "echo 'Erase this and add cmds'"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}
